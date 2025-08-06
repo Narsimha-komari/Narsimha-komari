@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-👋 Hi, I'm Narsimha — a passionate fresher exploring the world of Web Development.
+👋 Hi, I'm Narsimha passionate fresher exploring the world of Web Development.
 I have hands-on experience with HTML, CSS, JavaScript, Java, Node.js, and databases like MySQL & SQL.
 I'm eager to build real-world projects and continue learning new technologies to grow as a full-stack developer.
 
