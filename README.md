@@ -38,7 +38,7 @@ I'm eager to build real-world projects and continue learning new technologies to
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=epraveenkumar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=knarsimha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=epraveenkumar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
